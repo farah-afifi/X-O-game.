@@ -45,7 +45,7 @@ int main()
        }
 
         else{
-            cout<<"player 2's turn"<<endl<<"please pick tfv\he position's number:"<<endl;
+            cout<<"player 2's turn"<<endl<<"please pick the position's number:"<<endl;
             int position;
             cin>>position;
             for(int i=0;i<3;i++){
